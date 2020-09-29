@@ -1,0 +1,5 @@
+Ak si spomínaš na ten ticket s Qradar ,  že ukazoval na inú IP ako mal ....
+ 
+ # vim /etc/rsyslog.conf
+
+ # service rsyslog restart 

@@ -1,0 +1,4 @@
+# du -a | sort -n -r | head -n 10    - sort file by size 
+
+#vgs 
+# lvextend -rL +5G /var
